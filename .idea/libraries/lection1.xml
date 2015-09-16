@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lection1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Загрузки/lection1.zip!/" />
+      <root url="jar://$USER_HOME$/Загрузки/princeton.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
